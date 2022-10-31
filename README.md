@@ -12,3 +12,8 @@ Then you can run the script:
 python results.py
 ```
 The results will show in the terminal.
+```bash
+O candidato LULA tem 60.345.999 votos, o que representa 50,90% dos votos válidos. 
+O candidato JAIR BOLSONARO tem 58.206.354 votos, o que representa 49,10% dos votos válidos.
+Já foram contabilizados 100,00% votos.
+```
